@@ -20,6 +20,7 @@ You must have Homebrew installed. For more information, see the [installation gu
 
 ## Solving the issue
 
+
 {% warning %}
 
 **Warning:** If you install OpenSSH, your computer will not be able to retrieve passphrases that are stored in the Apple keychain. You will need to enter your passphrase or interact with your hardware security key every time you authenticate with SSH to {% data variables.product.prodname_dotcom %} or another web service.
